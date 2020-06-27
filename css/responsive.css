@@ -1,0 +1,19 @@
+@media only screen and (max-width: 1200px) {
+	/* HEADER AREA START NOW */
+	.header {
+		height: 60vh;
+	}
+	.nav-menu{
+		padding-top: 3.5rem;
+		float:right;
+	}
+}
+@media only screen and (max-width: 1024px) {
+	html {
+		font-size: 50.5%;
+	}
+	.nav-menu{
+		padding-top: 3.5rem;
+		float:right;
+	}
+}
